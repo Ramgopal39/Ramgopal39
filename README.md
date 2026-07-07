@@ -10,10 +10,10 @@
 
 <!-- Animated typing banner -->
 <a href="https://github.com/Ramgopal39">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Ram+Gopal+Reddy;Full+Stack+Developer+%7C+Data+Analyst;Building+secure%2C+scalable+web+apps;Turning+raw+data+into+decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi%2C+Are+Ram+Gopal+Reddy;Software+Engineer;Full+Stack+Developer+%7C+Data+Analyst;Building+secure%2C+scalable+web+apps" alt="Typing SVG" />
 </a>
 
-### 💻 Full Stack Developer &nbsp;|&nbsp; 📊 Data Analyst &nbsp;|&nbsp; 🎓 Final-Year CS Student @ IIIT Sri City
+### 💻 Software Engineer &nbsp;|&nbsp; Full Stack Developer &nbsp;|&nbsp; 📊 Data Analyst &nbsp;|&nbsp; 🎓 Final-Year CS Student @ IIIT Sri City
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramgopalreddyare/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ramgopal39/)
@@ -143,12 +143,12 @@ Power BI dashboard visualizing 195K+ accident records for severity and regional 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ramgopal39&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramgopal39&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ramgopal39&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Ramgopal39's GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramgopal39&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Ramgopal39&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Ramgopal39&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
 </div>
 
 <div align="center">
