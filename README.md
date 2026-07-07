@@ -10,7 +10,7 @@
 
 <!-- Animated typing banner -->
 <a href="https://github.com/Ramgopal39">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=%2C+Are+Ram+Gopal+Reddy;Software+Engineer;Full+Stack+Developer+%7C+Data+Analyst;Building+secure%2C+scalable+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Are+Ram+Gopal+Reddy;Software+Engineer;Full+Stack+Developer+%7C+Data+Analyst;Building+secure%2C+scalable+web+apps" alt="Typing SVG" />
 </a>
 
 ### 💻 Software Engineer &nbsp;|&nbsp; Full Stack Developer &nbsp;|&nbsp; 📊 Data Analyst &nbsp;|&nbsp; 🎓 Final-Year CS Student @ IIIT Sri City
